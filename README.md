@@ -1,6 +1,8 @@
 # birdrodent.github.io
 Charlotte's portfolio
 
+This site uses the [portfoliYOU](https://github.com/yousinix/portfolYOU) Jekyll theme.
+
 ## Local development
 
 Install dependencies and build the site:

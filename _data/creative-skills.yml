@@ -1,0 +1,11 @@
+- name: Visual storytelling
+  percentage: 85
+  color: info
+
+- name: Writing and editing
+  percentage: 90
+  color: success
+
+- name: Research and ideation
+  percentage: 88
+  color: warning

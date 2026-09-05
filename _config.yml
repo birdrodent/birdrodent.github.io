@@ -1,11 +1,34 @@
 title: Charlotte's Portfolio
-description: A personal portfolio by Charlotte.
+description: A thoughtful portfolio of Charlotte's work, ideas, and experiments.
 url: "https://birdrodent.com"
 baseurl: ""
+remote_theme: yousinix/portfolYOU
+open_new_tab: false
 
 markdown: kramdown
-theme: minima
-plugins: []
+plugins:
+  - jekyll-remote-theme
+  - jemoji
+
+author:
+  name: Charlotte
+  image: https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=600&q=80
+  email: hello@birdrodent.com
+  github: birdrodent
+
+permalink: /blog/:title
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: page
 
 exclude:
   - vendor

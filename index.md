@@ -1,8 +1,6 @@
 ---
-layout: home
-title: Charlotte's Portfolio
+layout: default
+permalink: /
 ---
 
-# Charlotte's Portfolio
-
-Welcome. This site is under construction.
+{% include landing.html %}

@@ -1,0 +1,11 @@
+- name: HTML and CSS
+  percentage: 82
+  color: danger
+
+- name: Jekyll and GitHub Pages
+  percentage: 78
+  color: primary
+
+- name: JavaScript
+  percentage: 68
+  color: secondary
