@@ -71,10 +71,10 @@ weight: 2
 
 <div class="row">
   <div class="col-md-6">
-    <p><b>SolidWorks Mechanical Design Associate (CSWA)</b><br><span class="text-muted">Mar. 2019</span></p>
+    <p><b><a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&amp;i=C-C82MRBF2T5" target="_blank" rel="noopener">SolidWorks Mechanical Design Associate (CSWA)</a></b><br><span class="text-muted">Mar. 2019</span></p>
   </div>
   <div class="col-md-6">
-    <p><b>NCEES FE Mechanical (EIT)</b><br><span class="text-muted">Mar. 2020</span></p>
+    <p><b><a href="https://account.ncees.org/rn/2013794-1291484-ecba6b2" target="_blank" rel="noopener">NCEES FE Mechanical (EIT)</a></b><br><span class="text-muted">Mar. 2020</span></p>
   </div>
 </div>
 
