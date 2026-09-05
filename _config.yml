@@ -1,0 +1,14 @@
+title: Charlotte's Portfolio
+description: A personal portfolio by Charlotte.
+url: "https://birdrodent.com"
+baseurl: ""
+
+markdown: kramdown
+theme: minima
+plugins: []
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - README.md
