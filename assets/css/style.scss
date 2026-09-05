@@ -1,0 +1,14 @@
+---
+---
+
+@import "portfolYOU";
+
+.project .card-img-top,
+.voron-gallery-image {
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+}
+
+.voron-gallery-image {
+  width: 100%;
+}
