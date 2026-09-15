@@ -15,7 +15,7 @@ A custom desk toy project exploring form, motion, and visual interest through it
 {% for image in e90_images %}
   <div class="col-md-6 mb-4">
     {% if forloop.first %}
-      <img src="{{ '/Portfolio Projects/Xylem/E90 Desk Toy/' | append: image | relative_url }}" alt="E90 desk toy photo {{ forloop.index }}" class="img-fluid rounded voron-gallery-image" loading="lazy" style="background: white; padding-top: 2rem; padding-bottom: 2rem; object-fit: contain;">
+      <img src="{{ '/Portfolio Projects/Xylem/E90 Desk Toy/' | append: image | relative_url }}" alt="E90 desk toy photo {{ forloop.index }}" class="img-fluid rounded voron-gallery-image" loading="lazy" style="background: white; padding-top: 2rem; padding-bottom: 2rem;">
     {% else %}
       <img src="{{ '/Portfolio Projects/Xylem/E90 Desk Toy/' | append: image | relative_url }}" alt="E90 desk toy photo {{ forloop.index }}" class="img-fluid rounded voron-gallery-image" loading="lazy">
     {% endif %}
