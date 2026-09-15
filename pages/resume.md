@@ -8,7 +8,7 @@ weight: 2
 <div class="d-flex flex-wrap justify-content-between align-items-center mb-4">
   <div>
     <h1 class="mb-1"><b>Charlotte M. Kindall</b></h1>
-    <p class="text-muted mb-0">Mechanical engineer | Additive manufacturing | STEM education</p>
+    <p class="text-muted mb-0">Mechanical Design/AM Design Engineer | Design for Additive Manufacturing | STEM Education</p>
   </div>
   <a class="btn btn-primary mt-3 mt-md-0" href="{{ '/Charlotte_Kindall_Resume.pdf' | relative_url }}" target="_blank" rel="noopener">
     <i class="fas fa-file-pdf mr-1"></i> Download PDF
@@ -17,8 +17,6 @@ weight: 2
 
 <p class="mb-4">
   <a href="mailto:charlottemkindall@gmail.com">charlottemkindall@gmail.com</a>
-  <span class="mx-2 text-muted">|</span>
-  <a href="tel:12069098345">(206) 909-8345</a>
   <span class="mx-2 text-muted">|</span>
   <a href="https://www.linkedin.com/in/charlottekindall">LinkedIn</a>
 </p>
