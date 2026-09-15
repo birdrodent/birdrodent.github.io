@@ -1,6 +1,6 @@
 ---
 name: Let's Solve Water Sign
-image: /Portfolio%20Projects/Xylem/Let's%20Solve%20Water%20Sign/IMG_5286.jpeg
+image: /Portfolio%20Projects/Xylem/Let's%20Solve%20Water%20Sign/6.jpeg
 description: A Let's Solve Water sign project exploring design, fabrication, and presentation.
 ---
 
@@ -8,7 +8,7 @@ description: A Let's Solve Water sign project exploring design, fabrication, and
 
 A project documenting the design and fabrication of the Let's Solve Water sign.
 
-{% assign water_sign_images = "IMG_5286.jpeg,IMG_9557.jpeg,IMG_9558.jpeg,IMG_9559.jpeg,18000874-6E89-4A90-9A77-2635402C6F5B_1_105_c.jpeg,83530354-D365-4088-91B9-495062A633E1_1_105_c.jpeg" | split: "," %}
+{% assign water_sign_images = "1.jpeg,2.jpeg,3.jpeg,4.jpeg,5.jpeg,6.jpeg" | split: "," %}
 
 <div class="row">
 {% for image in water_sign_images %}
