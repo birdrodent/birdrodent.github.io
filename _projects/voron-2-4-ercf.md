@@ -1,6 +1,5 @@
 ---
 name: Voron 2.4 + ERCF
-tools: [Voron 2.4, ERCF, 3D printing, CAD, Electronics]
 image: /Portfolio%20Projects/Voron/IMG_9144.jpeg
 description: A custom Voron 2.4 build with an ERCF multi-material setup.
 ---

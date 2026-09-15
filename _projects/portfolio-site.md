@@ -1,6 +1,5 @@
 ---
 name: Portfolio
-tools: [Jekyll, GitHub Pages, HTML, CSS]
 description: Placeholder to keep the project collection structured.
 external_url: https://birdrodent.com
 published: false

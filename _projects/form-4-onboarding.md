@@ -1,6 +1,5 @@
 ---
 name: Form 4 Onboarding
-tools: [Formlabs, 3D Printing, Process Setup, Validation]
 image: /Portfolio%20Projects/Xylem/Form%204%20Onboarding/IMG_1152.gif
 description: A documentation and process onboarding project for the Formlabs Form 4 resin printer workflow.
 ---

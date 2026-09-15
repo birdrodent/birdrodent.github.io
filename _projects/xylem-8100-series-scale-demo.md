@@ -1,6 +1,5 @@
 ---
 name: Xylem 8100 Series Scale Demo
-tools: [Xylem, Instrumentation, Calibration, Process Control]
 image: /Portfolio%20Projects/Xylem/8100%20Series%20Scale%20Demo/IMG_8145.GIF
 description: A simplified, interactive scale model for demonstrations at trade shows
 ---

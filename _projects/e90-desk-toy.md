@@ -1,6 +1,5 @@
 ---
 name: E90 Desk Toy
-tools: [CAD, 3D Printing, Design, Prototyping]
 image: /Portfolio%20Projects/Xylem/E90%20Desk%20Toy/B7E150A1-4050-4E8E-B4D6-70F224346B0F_1_102_o.jpeg
 description: A custom desk toy built around the E90 concept with iterative mechanical refinement.
 ---
