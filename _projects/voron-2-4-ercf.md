@@ -7,7 +7,13 @@ description: A custom Voron 2.4 build with an ERCF multi-material setup.
 
 ## Voron 2.4 + ERCF
 
-A hands-on build focused on precision motion, multi-material printing, and thoughtful integration of the printer and ERCF hardware.
+I self-sourced, printed components for, built, and finally configured a 250mm spec Voron 2.4r2 in less than a month back in 2023. Since then it has received several modifications and additions (most of which I also assembled and configured), most notably the Enraged Rabbit Carrot Feeder multi-material unit, enabling multicolor and multimaterial printing through one nozzle.
+
+In addition to building and configring the designs of others within this open-source design group I also designed and published a few parts of my own, linked below:
+https://www.printables.com/model/719629-revo-nozzle-skirt-250mm-rework
+https://www.printables.com/model/1134526-ercffilamentalist-2020-mounts-wmagnetic-panels
+
+Owning, using, maintaining, and continually modifying this machine has been a labor of love for the last several years. In a few time-critical work situations I was able to flex this machine into the production flow, enabling opportunities the team may have missed if solely replying on the printers onsite.
 
 <div class="row">
   <div class="col-md-6 mb-4">
