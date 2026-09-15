@@ -1,6 +1,6 @@
 ---
 name: Halloween 2025 - Gonzo Costume
-image: /Portfolio%20Projects/Gonzo/IMG_2493.jpeg
+image: /Portfolio%20Projects/Gonzo/g10.jpeg
 description: A Halloween 2025 Gonzo costume project documenting the design, fabrication, and finished costume.
 ---
 
@@ -8,7 +8,7 @@ description: A Halloween 2025 Gonzo costume project documenting the design, fabr
 
 A costume project inspired by Gonzo, documenting the design, fabrication, and finished build.
 
-{% assign gonzo_images = "IMG_2208.jpeg,IMG_2237.jpeg,IMG_2238.jpeg,IMG_2284.jpeg,IMG_2340.jpeg,IMG_2356.jpeg,IMG_2359.jpeg,IMG_2374.jpeg,IMG_2388.jpeg,IMG_2474.jpeg,IMG_2490.jpeg,IMG_2493.jpeg" | split: "," %}
+{% assign gonzo_images = "g1.jpeg,g2.jpeg,g3.jpeg,g4.jpeg,g5.jpeg,g6.jpeg,g7.jpeg,g8.jpeg,g9.jpeg,g10.jpeg" | split: "," %}
 
 <div class="row">
 {% for image in gonzo_images %}
