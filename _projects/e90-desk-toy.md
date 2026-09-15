@@ -1,6 +1,6 @@
 ---
 name: E90 Desk Toy
-image: /Portfolio%20Projects/Xylem/E90%20Desk%20Toy/B7E150A1-4050-4E8E-B4D6-70F224346B0F_1_102_o.jpeg
+image: /Portfolio%20Projects/Xylem/E90%20Desk%20Toy/B7E150A1-4050-4E8E-B4D6-70F224346B0F_1_102_o.jpeg?v=2
 description: A custom desk toy built around the E90 concept with iterative mechanical refinement.
 ---
 
@@ -13,7 +13,7 @@ A custom desk toy project exploring form, motion, and visual interest through it
 <div class="row">
 {% for image in e90_images %}
   <div class="col-md-6 mb-4">
-    <img src="{{ '/Portfolio Projects/Xylem/E90 Desk Toy/' | append: image | relative_url }}" alt="E90 desk toy photo {{ forloop.index }}" class="img-fluid rounded voron-gallery-image" loading="lazy">
+    <img src="{{ '/Portfolio Projects/Xylem/E90 Desk Toy/' | append: image | relative_url }}?v=2" alt="E90 desk toy photo {{ forloop.index }}" class="img-fluid rounded voron-gallery-image" loading="lazy">
   </div>
 {% endfor %}
 </div>
