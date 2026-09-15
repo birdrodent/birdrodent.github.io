@@ -1,8 +1,8 @@
 ---
 name: Xylem 8100 Series Scale Demo
 tools: [Xylem, Instrumentation, Calibration, Process Control]
-image: /assets/images/xylem-8100/IMG_8145.GIF
-description: A demonstration of the Xylem 8100 Series scale system in operation.
+image: /Portfolio%20Projects/Xylem/8100%20Series%20Scale%20Demo/IMG_8145.GIF
+description: A simplified, interactive scale model for demonstrations at trade shows
 ---
 
 ## Xylem 8100 Series Scale Demo
@@ -16,7 +16,7 @@ Extensive changes in the CAD were required to print effectively. The production 
 <div class="row">
 {% for image in xylem_images %}
   <div class="col-md-6 mb-4">
-    <img src="{{ '/assets/images/xylem-8100/' | append: image | relative_url }}" alt="Xylem 8100 Series scale demo photo {{ forloop.index }}" class="img-fluid rounded voron-gallery-image" loading="lazy">
+    <img src="{{ '/Portfolio Projects/Xylem/8100 Series Scale Demo/' | append: image | relative_url }}" alt="Xylem 8100 Series scale demo photo {{ forloop.index }}" class="img-fluid rounded voron-gallery-image" loading="lazy">
   </div>
 {% endfor %}
 </div>
