@@ -1,6 +1,6 @@
 ---
 name: SLA 750 Onboarding
-image: /Portfolio%20Projects/Xylem/SLA%20750%20Onboarding/1.jpeg
+image: /Portfolio%20Projects/Xylem/SLA%20750%20Onboarding/8.gif
 description: A documentation project covering the onboarding, setup, and operational workflow for the SLA 750 print system.
 ---
 
