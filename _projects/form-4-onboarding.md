@@ -1,7 +1,7 @@
 ---
 name: Form 4 Onboarding
 image: /Portfolio%20Projects/Xylem/Form%204%20Onboarding/IMG_1152.gif
-description: A documentation and process onboarding project for the Formlabs Form 4 resin printer workflow.
+description: A documentation of the business case made for introducing a Form 4 to the AM Lab's capabilities.
 ---
 
 ## Form 4 Onboarding

@@ -1,7 +1,7 @@
 ---
 name: E90 Desk Toy
 image: /Portfolio%20Projects/Xylem/E90%20Desk%20Toy/B7E150A1-4050-4E8E-B4D6-70F224346B0F_1_102_o.jpeg?v=2
-description: A custom desk toy built around the E90 concept with iterative mechanical refinement.
+description: A simple, cost effective introduction (and on-desk reminder) to the various teams at Xylem that New Product Development has some cool toys and wants to help.
 ---
 
 ## E90 Desk Toy

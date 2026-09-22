@@ -1,7 +1,7 @@
 ---
 name: Voron 2.4 + ERCF
 image: /Portfolio%20Projects/Voron/IMG_9144.jpeg
-description: A custom Voron 2.4 build with an ERCF multi-material setup.
+description: A self-sourced and one-of-a-kind Voron 2.4 build with an ERCF multi-material unit.
 ---
 
 ## Voron 2.4 + ERCF
