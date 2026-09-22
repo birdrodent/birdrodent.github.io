@@ -6,7 +6,9 @@ description: A Let's Solve Water sign project exploring design, fabrication, and
 
 ## Let's Solve Water Sign
 
-A project documenting the design and fabrication of the Let's Solve Water sign.
+In the prominently located Transformation Area within Xylem’s Chicago facility I was tasked with designing and realizing the “Let’s Solve Water” sign. It features the Xylem logo embossed over a word cloud of relevant company missions and industry terminology.
+
+This sign was added alongside a newly refreshed Patent Wall, an area dedicated to recognizing the engineers that pursued and were granted patents for their innovations in water technology. The list of words in the “Let’s Solve Water” sign was partially constructed from conversations with these senior engineers and managers.
 
 {% assign water_sign_images = "1.jpeg,2.jpeg,3.jpeg,4.jpeg,5.jpeg,6.jpeg" | split: "," %}
 
