@@ -8,7 +8,7 @@ description: A CLERTY project documenting the design and finished work.
 
 A CLERTY project documenting the design and finished work.
 
-{% assign clerty_images = "1.jpeg,2.gif,3.png,4.png,5.png,6.jpeg,7.jpeg,8.jpeg,9.jpeg,10.png" | split: "," %}
+{% assign clerty_images = "1.jpeg,2.gif,3.png,4.png,5.jpeg,6.jpeg,7.png,8.jpeg,9.jpeg,10.png" | split: "," %}
 
 <div class="row">
 {% for image in clerty_images %}
