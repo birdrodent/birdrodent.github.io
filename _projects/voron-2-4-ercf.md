@@ -1,6 +1,6 @@
 ---
 name: Voron 2.4 + ERCF
-image: /Portfolio%20Projects/Voron/IMG_9144.jpeg
+image: /Portfolio%20Projects/Voron/16.jpeg
 description: A self-sourced and one-of-a-kind Voron 2.4 build with an ERCF multi-material unit.
 ---
 
@@ -14,16 +14,7 @@ In addition to building and configring the designs of others within this open-so
 
 Owning, using, maintaining, and continually modifying this machine has been a labor of love for the last several years. In a few time-critical work situations I was able to flex this machine into the production flow, enabling opportunities the team may have missed if solely replying on the printers onsite.
 
-<div class="row">
-  <div class="col-md-6 mb-4">
-    <img src="{{ '/Portfolio Projects/Voron/IMG_0586.jpeg' | relative_url }}" alt="Voron 2.4 with ERCF multi-material setup" class="img-fluid rounded voron-gallery-image" loading="lazy">
-  </div>
-  <div class="col-md-6 mb-4">
-    <img src="{{ '/Portfolio Projects/Voron/IMG_0682.jpeg' | relative_url }}" alt="Voron 2.4 build detail" class="img-fluid rounded voron-gallery-image" loading="lazy">
-  </div>
-</div>
-
-{% assign voron_images = "IMG_1344.jpeg,IMG_1377.jpeg,IMG_1613.jpeg,IMG_5343.jpeg,IMG_5417.jpeg,IMG_5480.jpeg,IMG_5481.jpeg,IMG_5494.jpeg,IMG_8171.jpeg,IMG_9082.jpeg,IMG_9144.jpeg,IMG_9190.jpeg,IMG_9208.jpeg,IMG_9214.jpeg,IMG_9218.jpeg,IMG_9221.jpeg" | split: "," %}
+{% assign voron_images = "1.jpeg,2.jpeg,3.jpeg,4.jpeg,5.jpeg,6.jpeg,7.jpeg,8.jpeg,9.gif,10.jpeg,11.jpeg,12.jpeg,13.jpeg,14.jpeg,15.jpeg,16.jpeg" | split: "," %}
 
 <div class="row">
 {% for image in voron_images %}
